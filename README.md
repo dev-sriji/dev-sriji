@@ -1,5 +1,5 @@
 # 💫 About Me:
-</> Passionate programmer.<br></> Computer Science Engineer. <br></> Studying<br></> C ❤️
+</> Passionate programmer.<br></> Computer Science Engineer. <br></> Studying<br></> JS ❤️ C ❤️
 
 
 ## 🌐 Socials:
