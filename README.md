@@ -1,5 +1,5 @@
 # 💫 About Me:
-</> Passionate programmer.<br></> Computer Science Engineer. <br></> Studying<br></> leetcode ❤️
+</> Passionate programmer.<br></> Computer Science Engineer. <br></> Studying<br></> C ❤️
 
 
 ## 🌐 Socials:
